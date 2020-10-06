@@ -3,10 +3,17 @@ html, body {
     padding: 0px 0px 0px 0px;
     font-family: 'Roboto', sans-serif;
     color: #666666;
+
+
+
+
+.{ homepage.other-selector{font-family:"Courier New", Courier, monospace
 }
 
 body {
     background-color: whitesmoke;
+    font-family: "Comic Sans MS", cursive, sans-serif
+        
 }
 
 .top-bar {

@@ -1,28 +1,12 @@
 html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    color: ##F08080;
-    text-align: center;
-}
-img {
-    border-radius: 100%
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
 }
 
 body {
-    background-color: #ebf7ff;
-}
-
-.bookreviews { 
-    font-family:"Comic Sans MS", cursive, sans-serif ;
-    color: blueviolet;
-    font-size: 18px;
-}
-
-.headers {
-    font-family: "Impact, Charcoal, sans-serif; 
-    font-weight: 700; 
-    color: black; box-shadow:xs
+    background-color: whitesmoke;
 }
 
 .top-bar {
@@ -36,13 +20,13 @@ body {
    font-size: 30px;
    position: absolute;
    padding: 0px 0px 0px 20px;
-   z-index: 3;S
-   color:black; box-shadow: xs
-   font-weight: bolder;
+   z-index: 3;
+   color: #131359;
+   font-weight: bold;
 }
 
 .top-menu {
-   background-color: #CD5C5C;
+   background-color: #131359;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -51,8 +35,7 @@ body {
 
 .top-menu ul {
     list-style-type: none;
-    font-family: Lucida Console", Courier, monospace ;
-    font-size: 35px; 
+    font-size: 20px; 
     float: right;
     margin-right: 20px;
 }
@@ -96,7 +79,7 @@ body {
 .main-section figure, .main-section img {
     display: block;
     margin: auto;
-    width: 500px;
+    width: 800px;
 }
 
 .footer {

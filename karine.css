@@ -16,13 +16,13 @@ body {
 .bookreviews { 
     font-family:"Comic Sans MS", cursive, sans-serif ;
     color: blueviolet;
-    font-size: 18px;
+    font-size: 18.66px;
 }
 
 .headers {
     font-family: "Impact, Charcoal, sans-serif; 
     font-weight: 700; 
-    color: black; box-shadow:xs
+    color: #191970; box-shadow:xs
 }
 
 .top-bar {
@@ -37,7 +37,7 @@ body {
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;S
-   color:black; box-shadow: xs
+   color:#191970; box-shadow: xs
    font-weight: bolder;
 }
 
@@ -71,7 +71,7 @@ body {
     background-color: red;
 }
 
-.current-page-link {
+.current-page-link {ß
     background-color: #db0e0e;
 }
 
